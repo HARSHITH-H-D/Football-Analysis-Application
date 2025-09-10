@@ -18,7 +18,7 @@ This project leverages **Machine Learning** and **Computer Vision** techniques t
 
 ## 🛠 Tech Stack
 - **Programming Language:** Python  
-- **Libraries/Frameworks:** TensorFlow / PyTorch, OpenCV, NumPy, Pandas, Matplotlib  
+- **Libraries/Frameworks:** TensorFlow, OpenCV, NumPy, Pandas, Matplotlib  
 - **Data Acquisition:** Roboflow  
 - **Modeling:** Yolov8 (Deep CNN) 
 - **Version Control:** Git & GitHub  
