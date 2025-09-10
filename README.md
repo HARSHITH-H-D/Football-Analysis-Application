@@ -20,7 +20,7 @@ This project leverages **Machine Learning** and **Computer Vision** techniques t
 - **Programming Language:** Python  
 - **Libraries/Frameworks:** TensorFlow / PyTorch, OpenCV, NumPy, Pandas, Matplotlib  
 - **Data Acquisition:** Roboflow  
-- **Modeling:** Deep Learning (CNN for image classification)  
+- **Modeling:** Yolov8 (Deep CNN) 
 - **Version Control:** Git & GitHub  
 
 ---
