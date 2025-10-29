@@ -45,7 +45,7 @@ def draw_pitch_background():
 
 # Main App
 def app():
-    st.set_page_config(layout="wide")
+    
     st.title("⚽ Football Tactics Board")
 
     col1, col2 = st.columns(2)
