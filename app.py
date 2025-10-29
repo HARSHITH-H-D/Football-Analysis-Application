@@ -1,13 +1,14 @@
 import streamlit as st
-import euro_shot_map
-import web_app
-
-# Set page configuration
 st.set_page_config(
     page_title="Football Analysis Hub",
     layout="wide",
     initial_sidebar_state="expanded"
 )
+import euro_shot_map
+import web_app
+
+# Set page configuration
+
 
 # Background GIF & Overlay
 st.markdown(
